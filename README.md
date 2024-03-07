@@ -1,4 +1,5 @@
-# Ryao
+# Ryao_copy(This is a copy of other repository)
+# Rayo
 Ryao is a graphics simulator. This version runs smoothly on windows.
 
 ## Dependencies
