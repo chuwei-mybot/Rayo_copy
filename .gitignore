@@ -1,0 +1,17 @@
+build/
+release_build/
+debug/
+vsBuild/
+.DS_Store
+.vscode
+.vs
+.cache
+.idea
+.clang-format
+*.aux
+*.log
+*.gz
+*.out
+_deps/
+CMakeSettings.json
+(old)*
